@@ -1,0 +1,9 @@
+torch
+transformers
+faiss-cpu
+chromadb
+scikit-learn
+numpy
+rank_bm25
+pdfplumber
+tqdm
